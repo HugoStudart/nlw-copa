@@ -15,11 +15,10 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
 
-<br>
+<br />
 
-<p align="center">
   <img alt="calendario da copa" src="./.github/capa.jpg" width="100%">
-</p>
+ <br />
 
 ## 🚀 Tecnologias
 
